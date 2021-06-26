@@ -1,0 +1,4 @@
+com\naixue\partitioner\JobMain.class
+com\naixue\partitioner\WordReducer.class
+com\naixue\partitioner\MyPartitioner.class
+com\naixue\partitioner\WordMapper.class

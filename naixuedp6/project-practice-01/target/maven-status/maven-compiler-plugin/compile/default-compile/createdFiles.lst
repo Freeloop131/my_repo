@@ -1,0 +1,13 @@
+com\naixue\flow\sort\FlowSortMapper.class
+com\naixue\flow\sort\JobMain.class
+com\naixue\flow\sum\FlowSumMapper.class
+com\naixue\flow\sum\FlowBean.class
+com\naixue\flow\partitioner\FlowPartitionerMapper.class
+com\naixue\flow\partitioner\FlowBean.class
+com\naixue\flow\partitioner\JobMain.class
+com\naixue\flow\sort\FlowSortReducer.class
+com\naixue\flow\sum\FlowSumReducer.class
+com\naixue\flow\partitioner\FlowPartitionerReducer.class
+com\naixue\flow\sort\FlowSortBean.class
+com\naixue\flow\sum\JobMain.class
+com\naixue\flow\partitioner\FlowPartitioner.class

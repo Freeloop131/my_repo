@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mr-day02-1" />
+        <module name="mr-day02-2" />
+        <module name="hdfs-day02" />
+        <module name="mr-day02-3" />
+        <module name="udf" />
+        <module name="mr-day01" />
+        <module name="hive-demo" />
+        <module name="project-practice-01" />
+        <module name="hbase" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="project-practice" target="1.8" />
+      <module name="project-practice-1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
